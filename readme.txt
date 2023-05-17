@@ -7,4 +7,3 @@
 
 ## run the code by installing all the necessary packages included in the ipynb file
 
-## some model are pre-trained and weights are stores in the directory
