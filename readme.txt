@@ -6,3 +6,5 @@
 	and "HAM10000_images_part_2" into one folder named "HAM10000_images"
 
 ## run the code by installing all the necessary packages included in the ipynb file
+
+## some model are pre-trained and weights are stores in the directory
